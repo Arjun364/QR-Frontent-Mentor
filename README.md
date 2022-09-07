@@ -1,3 +1,3 @@
 # QR-Frontent-Mentor
  My first challenge -
- for other challengers -https://www.frontendmentor.io/challenges
+ for other challenges -https://www.frontendmentor.io/challenges
